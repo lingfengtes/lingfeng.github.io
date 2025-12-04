@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "lingfeng zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Xian Shannxi "
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Shannxi Normal University"
+  # uri              : # URL
   email            : "lingfeng_zlf@163.com" 
 
   # Academic websites
